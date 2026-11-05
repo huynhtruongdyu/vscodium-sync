@@ -1,6 +1,0 @@
-disabled:
-  - id: jitbit.vscode-icontheme-nomo-dark
-    uuid: 00000000-0000-0000-0000-000000000000
-enabled:
-  - id: zokugun.cron-tasks
-    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
