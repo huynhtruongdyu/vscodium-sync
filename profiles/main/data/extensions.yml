@@ -1,10 +1,6 @@
 disabled: []
 enabled:
-  - id: fogio.jetbrains-product-icon-theme
-    uuid: dcae0744-529c-4ae5-8fd9-07cb7504af91
   - id: jitbit.vscode-icontheme-nomo-dark
     uuid: c6bc36ce-c15d-4dfe-bd29-f28482bd36a7
-  - id: PKief.material-icon-theme
-    uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

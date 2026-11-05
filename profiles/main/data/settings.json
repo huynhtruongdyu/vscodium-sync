@@ -3,8 +3,9 @@
     "window.commandCenter": false,
     "window.density.layout": "compact",
     "window.titleSeparator": " | ",
-    "workbench.iconTheme": "vs-nomo-dark",
-    "workbench.productIconTheme": "jetbrains-product-icon-theme",
     "security.workspace.trust.enabled": false,
-    "security.workspace.trust.startupPrompt": "never"
+    "security.workspace.trust.startupPrompt": "never",
+    "workbench.iconTheme": "vs-nomo-dark",
+    "git.autofetch": true,
+    "workbench.layoutControl.enabled": false
 }
